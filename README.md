@@ -38,6 +38,7 @@ javac LibraryManagementSystem.java
 java LibraryManagementSystem
 (Replace LibraryManagementSystem.java with your main class file if different.)
 
+🖼️ Screenshots
 
 📜 License
 This project is under the MIT License.
