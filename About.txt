@@ -1,0 +1,53 @@
+Detailed Description
+This project is a Library Management System developed using Java Swing for the front end and MySQL as the back-end database. Built in NetBeans IDE, the system provides a complete solution for managing books and staff in a library setting through a user-friendly graphical interface.
+
+Front-End:
+
+Developed using Java Swing (JFrame), the application includes the following core features:
+
+Login Page – Secure login for admin access.
+
+Books Available – View the current list of available books.
+
+Staff Details – Display detailed staff information.
+
+Add Books – Add new books to the inventory.
+
+Remove Books – Remove existing books from the system.
+
+Add Staff – Add new staff member details.
+
+Remove Staff – Delete staff entries as needed.
+ 
+
+Back-End:
+
+The system uses MySQL for data storage and management, with the following key tables:
+
+Admin Table – Stores admin login credentials.
+
+Books Table – Manages book records and availability.
+
+Staff Table – Contains staff information and details.
+ 
+
+Technologies Used:
+
+Front-End: Java Swing (JFrame)
+
+IDE: NetBeans
+
+Back-End: MySQL Database
+
+
+Project Highlights:
+
+Simple and intuitive UI for easy navigation
+
+Efficient management of library operations
+
+Secure login for administrator access
+
+Real-time data interaction with MySQL
+
+This project is ideal for final year students and beginners learning how to integrate Java Swing with a MySQL database for practical application development.
